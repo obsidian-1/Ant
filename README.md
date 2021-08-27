@@ -3,8 +3,11 @@
 
 ## Libraries used:
 -GLFW (_Windowing And OpenGl context creation_)
+
 -GLEW (_OpenGl Function Loader_)
+
 -GLM (_Linear Algebra Library_)
+
 -DearIMGui (_Gui Framework (debug)_)
 
 Can Only Build on Linux as of now 
