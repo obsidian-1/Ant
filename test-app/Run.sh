@@ -1,0 +1,2 @@
+g++ main.cpp ../ant-core/src/*.cpp ../ant-core/src/Graphics/*.cpp  -o temp --std=c++17  -I ../dependencies/include/ -I ../ant-core/src -I ../ant-core/src/Graphics  -L ../dependencies/lib/ \
+-lpthread -ldl -lGLEW -lGL  -lglfw -lX11 -limgui -lassimp -lfreetype -DGLEW_NO_GLU
