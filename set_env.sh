@@ -12,7 +12,7 @@ CPLUS_INCLUDE_PATH="$HOME/usr/include:$PWD/ant-core/src"
 
 
 #Linker stuff
-LD_LIBRARY_PATH="$HOME/usr/lib/x86_64-linux-gnu/:$HOME/usr/lib/:$PWD/deps:/home/prabhav/Desktop/Coding/ant/dependencies/lib"
+LD_LIBRARY_PATH="$HOME/usr/lib/x86_64-linux-gnu/:$HOME/usr/lib/:$PWD/deps:$PWD/dependencies/lib"
 
 PATH="$HOME/usr/bin:$PATH"
 
